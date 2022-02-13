@@ -1,5 +1,6 @@
 # App: Restaurant Roulette
 # Authors: Devin Reina, Tyler Beck, Jessica Versoza, Geoff Somer, Rachel Saito
+# Link: https://dreina99.github.io/restaurant-roulette/
 # Description: This is a collaborative project which displays a random restaurant in the area
 # when you enter a food category, price level, and a zip code/city name. My contribution included
 # the zip code and city functionality, which included using geocoding along with the Google Places API. 

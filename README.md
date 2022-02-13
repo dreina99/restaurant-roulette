@@ -6,3 +6,4 @@
 # I also worked on the map which dynamically recenters based on the restaurant location. Finally, I implemented
 # the back button which allows the user to loop back through past restaurants that were saved in 
 # local storage.
+![image](https://user-images.githubusercontent.com/32178142/153779357-84ab0dde-c518-4372-b4d4-722b425c93ad.PNG)
